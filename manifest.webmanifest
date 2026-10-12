@@ -1,6 +1,6 @@
 {
- "name": "Seongeon Basketball Manager",
- "short_name": "SBM",
+ "name": "Seongeon Basketball",
+ "short_name": "성언 바스켓볼",
  "start_url": "./",
  "scope": "./",
  "display": "fullscreen",
